@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/ec2-user/Desktop/LAB_FILES/marvin-1.png
+Icon[en_US]=marvin-1.png
+Name[en_US]=Challenge Questions
+Exec=chromium-browser http://172.31.245.42
+Name=Challenge Questions
